@@ -10,8 +10,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-https://github.com/cahilroberts77/hello-world.git -helloworld
-[Github] (https://github.com/cahilroberts77/hello-world.git)
+
+https://github.com/cahilroberts77/hello-world.git -helloworld!
+[Github](https://github.com/cahilroberts77/hello-world.git)
 
 # Header 1
 ## Header 2
